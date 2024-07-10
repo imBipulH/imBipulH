@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imBipulH
-- 👀 I’m interested in ... Develop wwb app
+- 👀 I’m interested in ... Develop web app
 - 🌱 I’m currently learning ... MERN
 - 💞️ I’m looking to collaborate on ... Anyone
 - 📫 How to reach me ... bipulh62@gmail.com
